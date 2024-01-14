@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.23.2)
 
-project (DINPUT VERSION 0.1.0 LANGUAGES CXX)
+project (DINPUT VERSION 0.0.1 LANGUAGES CXX)
 
 file (GLOB src src/*.cpp src/*.c)
 file (GLOB include include/*.hpp include/*.h)
