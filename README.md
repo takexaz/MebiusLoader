@@ -1,13 +1,10 @@
 Mebius Loader
 ============================
-Mebius専用DLLローダー
+Mebius蟆ら畑DLL繝ｭ繝ｼ繝繝ｼ
 
 ## Requirements
-* [Microsoft Visual C++ 再頒布可能パッケージ(x86)](https://aka.ms/vs/17/release/vc_redist.x86.exe)
-* [Mebius](https://github.com/takexaz/Mebius/releases/latest)
+* [Microsoft Visual C++ 蜀埼貞ｸ�蜿ｯ閭ｽ繝代ャ繧ｱ繝ｼ繧ｸ(x86)](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+* [Mebius](https://github.com/takexaz/Mebius)
 
 ## License
 * [MIT](LICENSE.txt)
-
-## Library
-* [Mebius](https://github.com/takexaz/Mebius)
